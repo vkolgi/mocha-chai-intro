@@ -1,0 +1,23 @@
+{
+  "name": "mocha-chai-intro",
+  "version": "1.0.0",
+  "description": "mocha chai intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkolgi/mocha-chai-intro.git"
+  },
+  "author": "Vinayak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vkolgi/mocha-chai-intro/issues"
+  },
+  "homepage": "https://github.com/vkolgi/mocha-chai-intro#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
